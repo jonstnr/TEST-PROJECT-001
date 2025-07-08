@@ -1,0 +1,11 @@
+{
+  "name": "test-project-001",
+  "version": "1.0.0",
+  "description": "A scalable web application powered by GitHub Copilot in VS Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
