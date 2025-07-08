@@ -8,3 +8,13 @@ Best Practices for Scalable Web Applications (Raw Research)
 - Auto-scaling infrastructure
 - Monitoring and logging
 - Use of CDNs
+
+Chat-like Self File Hosting App (Raw Research)
+
+- React and Next.js are popular for chat-like UIs (see: react-chat-ui, react-chat-elements)
+- Electron can be used for a desktop app with local file access
+- File storage options: local filesystem (Node.js fs), SQLite (for metadata), or cloud (optional)
+- Privacy: self-hosting, local authentication, optional encryption
+- Similar open-source projects: Rocket.Chat, Zulip, Mattermost (for inspiration)
+- UI libraries: Material-UI, Ant Design, Chakra UI
+- Bonus: Use avatars, chat bubbles, and group icons to mimic WhatsApp
