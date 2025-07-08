@@ -1,0 +1,10 @@
+Best Practices for Scalable Web Applications (Raw Research)
+
+- Microservices architecture
+- Load balancing
+- Caching strategies
+- Database sharding
+- Asynchronous processing
+- Auto-scaling infrastructure
+- Monitoring and logging
+- Use of CDNs
